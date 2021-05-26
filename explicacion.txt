@@ -1,0 +1,10 @@
+Que son las buenas practicas de programacion:
+Son aquellos metodos que nos llevan a tener un codigo mas legible, organizado
+, escalable y nos ayudaran a tener un codigo de mas calidad algunas de las buenas practicas 
+usadas en el proyecto, comentar codigo y documentar funciones, aplicarincipio solid
+
+utilice MVVM
+
+Primero uso la arquitectura para crear un codigo mas solido y escalable, tambien 
+uso esta arquitectura ya que hace parte de los componentes de jetpack los cuales
+nos ayudan a tener apps mas eficientes.
